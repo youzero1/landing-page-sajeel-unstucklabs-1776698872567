@@ -4,7 +4,7 @@ export default function Hero() {
       {/* Background decoration */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute -top-40 -right-40 w-96 h-96 bg-primary-200 rounded-full opacity-20 blur-3xl" />
-        <div className="absolute -bottom-40 -left-40 w-96 h-96 bg-blue-200 rounded-full opacity-20 blur-3xl" />
+        <div className="absolute -bottom-40 -left-40 w-96 h-96 bg-pink-200 rounded-full opacity-20 blur-3xl" />
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-primary-100 rounded-full opacity-10 blur-3xl" />
       </div>
 
@@ -19,7 +19,7 @@ export default function Hero() {
         <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold text-gray-900 leading-tight mb-6">
           Launch Your Idea
           <br />
-          <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary-500 to-blue-600">
+          <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary-500 to-pink-600">
             Faster Than Ever
           </span>
         </h1>
@@ -53,7 +53,7 @@ export default function Hero() {
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 text-sm text-gray-500">
           <div className="flex items-center gap-2">
             <div className="flex -space-x-2">
-              {['bg-pink-400', 'bg-yellow-400', 'bg-green-400', 'bg-blue-400', 'bg-purple-400'].map((color, i) => (
+              {['bg-pink-400', 'bg-yellow-400', 'bg-green-400', 'bg-fuchsia-400', 'bg-purple-400'].map((color, i) => (
                 <div
                   key={i}
                   className={`w-8 h-8 rounded-full border-2 border-white ${color} flex items-center justify-center text-white text-xs font-bold`}
