@@ -24,10 +24,10 @@ export default function Hero() {
           </span>
         </h1>
 
-        {/* Sub-headline */}
+        {/* Sub-headline / Tagline */}
         <p className="max-w-2xl mx-auto text-xl text-gray-500 mb-10 leading-relaxed">
-          NayaPad gives you all the tools you need to go from idea to production in record time.
-          Beautiful design, powerful infrastructure, zero friction.
+          Turn your boldest ideas into reality — NayaPad empowers creators and builders
+          with seamless tools, stunning design, and lightning-fast performance.
         </p>
 
         {/* CTA Buttons */}
