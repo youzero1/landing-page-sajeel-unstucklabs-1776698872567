@@ -26,7 +26,7 @@ export default function Hero() {
 
         {/* Sub-headline */}
         <p className="max-w-2xl mx-auto text-xl text-gray-500 mb-10 leading-relaxed">
-          LaunchPad gives you all the tools you need to go from idea to production in record time.
+          NayaPad gives you all the tools you need to go from idea to production in record time.
           Beautiful design, powerful infrastructure, zero friction.
         </p>
 
@@ -88,7 +88,7 @@ export default function Hero() {
                 <div className="w-3 h-3 rounded-full bg-green-400" />
               </div>
               <div className="flex-1 bg-white border border-gray-200 rounded-md px-3 py-1 text-xs text-gray-400 text-center">
-                app.launchpad.io/dashboard
+                app.nayapad.io/dashboard
               </div>
             </div>
             {/* Dashboard content */}

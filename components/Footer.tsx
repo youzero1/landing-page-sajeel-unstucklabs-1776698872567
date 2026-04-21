@@ -18,7 +18,7 @@ export default function Footer() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
                 </svg>
               </div>
-              <span className="text-xl font-bold text-white">LaunchPad</span>
+              <span className="text-xl font-bold text-white">NayaPad</span>
             </div>
             <p className="text-sm leading-relaxed mb-6">
               The modern platform to launch your next big idea. Fast, scalable, and beautifully designed.
@@ -82,7 +82,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="pt-8 border-t border-gray-800 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-sm">&copy; {new Date().getFullYear()} LaunchPad, Inc. All rights reserved.</p>
+          <p className="text-sm">&copy; {new Date().getFullYear()} NayaPad, Inc. All rights reserved.</p>
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
             <span className="text-sm">All systems operational</span>

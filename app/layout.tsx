@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'LaunchPad - Build Something Amazing',
+  title: 'NayaPad - Build Something Amazing',
   description: 'The modern platform to launch your next big idea. Fast, scalable, and beautifully designed.',
 };
 
