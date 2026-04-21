@@ -26,8 +26,9 @@ export default function Hero() {
 
         {/* Sub-headline / Tagline */}
         <p className="max-w-2xl mx-auto text-xl text-gray-500 mb-10 leading-relaxed">
-          Turn your boldest ideas into reality — NayaPad empowers creators and builders
-          with seamless tools, stunning design, and lightning-fast performance.
+          Stop waiting and start creating — NayaPad gives you everything you need to ship
+          your product in record time, from powerful integrations to an intuitive workflow
+          that gets out of your way.
         </p>
 
         {/* CTA Buttons */}
